@@ -1,0 +1,13 @@
+C:\Users\Henrique\Downloads\Atv1_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv1_henriqueSerpa.exe
+C:\Users\Henrique\Downloads\Atv1_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv1_henriqueSerpa.deps.json
+C:\Users\Henrique\Downloads\Atv1_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv1_henriqueSerpa.runtimeconfig.json
+C:\Users\Henrique\Downloads\Atv1_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv1_henriqueSerpa.runtimeconfig.dev.json
+C:\Users\Henrique\Downloads\Atv1_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv1_henriqueSerpa.dll
+C:\Users\Henrique\Downloads\Atv1_henriqueSerpa\bin\Debug\netcoreapp3.1\Atv1_henriqueSerpa.pdb
+C:\Users\Henrique\Downloads\Atv1_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv1_henriqueSerpa.csprojAssemblyReference.cache
+C:\Users\Henrique\Downloads\Atv1_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv1_henriqueSerpa.AssemblyInfoInputs.cache
+C:\Users\Henrique\Downloads\Atv1_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv1_henriqueSerpa.AssemblyInfo.cs
+C:\Users\Henrique\Downloads\Atv1_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv1_henriqueSerpa.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Downloads\Atv1_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv1_henriqueSerpa.dll
+C:\Users\Henrique\Downloads\Atv1_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv1_henriqueSerpa.pdb
+C:\Users\Henrique\Downloads\Atv1_henriqueSerpa\obj\Debug\netcoreapp3.1\Atv1_henriqueSerpa.genruntimeconfig.cache
